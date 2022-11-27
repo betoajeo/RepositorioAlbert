@@ -1,0 +1,25 @@
+.resalt:hover {
+    color: #fa5252;
+} 
+
+.risk_low { 
+    color:#2DB822 ;
+}
+ 
+
+.risk_medium {
+    /* background-color:#F48625; */
+    color:#F48625;
+}
+
+.risk_top {
+    /* background-color:#D53E30; */
+    color:#D53E30;
+}
+ 
+
+.cuadro_verde {
+    /* width: 10px;
+    height: 10px;
+    background: green !important; */
+}
